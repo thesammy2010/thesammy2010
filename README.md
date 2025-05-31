@@ -14,6 +14,7 @@
 <code><img height="50" alt="Golang" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/go/go.png"></code>
 <code><img height="50" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/typescript/typescript.png"></code>
 <code><img height="50" alt="React" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/react/react.png"></code>
+<code><img height="50" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kotlin/kotlin.png"></code>
 
 
 # Some projects you should check out:
@@ -22,7 +23,13 @@
 
 ### Companies
 <img src="./assets/moonpay.png" width="20"></img> [MoonPay](https://moonpay.com)
+
 <img src="./assets/curve.jpg" width="20"></img> [Curve](https://curve.com)
+
+<img src="./assets/dice.fm.jpg" width="20"></img> [dice.fm](https://dice.fm)
+
+<img src="./assets/blockchain.com.png" width="20"></img> [Blockchain.com](https://blockchain.com)
+
 
 ### Contact Me
 - [![Linkedin: Leo](https://img.shields.io/badge/-TheSammy2010-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leo-pn/)
