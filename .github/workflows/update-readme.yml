@@ -1,0 +1,51 @@
+name: Update README
+
+on:
+  schedule:
+    # Once a day, a little after midnight UTC.
+    - cron: '17 0 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+# Needed so the job can push the regenerated README back to the branch.
+permissions:
+  contents: write
+
+# A scheduled run and a push run committing at the same time would collide, so
+# let the newer one wait rather than cancelling it.
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5.2.0
+      with:
+        python-version: '3.13'
+
+    - name: Regenerate the README
+      env:
+        # Only used to lift the anonymous API rate limit; the script reads
+        # public data either way.
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: python scripts/update_readme.py
+
+    - name: Commit any changes
+      run: |
+        if [ -z "$(git status --porcelain README.md)" ]; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update generated README sections"
+        git push

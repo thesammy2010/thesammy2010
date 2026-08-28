@@ -1,36 +1,160 @@
-<code><img height="50" width="55" src="./assets/logo.png"></img></code> Hey there 👋 I'm Leo and I'm currently a Senior Data Engineer
+<div align="center">
 
-#### Some tools and languages I'm in experienced in 🧠
-<code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/python/python.png"></code>
-<code><img height="50" alt="terraform" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/terraform/terraform.png"></code>
-<code><img height="50" alt="dbt" src="./assets/dbt.png"></code>
-<code><img height="50" alt="kubernetes" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kubernetes/kubernetes.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/google-cloud/google-cloud.png"></code>
-<code><img height="50" src="./assets/kafka.png"></code>
-<code><img height="50" alt="redpanda" src="./assets/redpanda.jpg"></code>
-<code><img height="50" alt="GitHub Actions" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/actions/actions.png"></code>
+<img height="90" src="./assets/logo.png" alt="logo"></img>
 
-#### Some other tools I'm developing experience in 🚧
-<code><img height="50" alt="Golang" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/go/go.png"></code>
-<code><img height="50" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/typescript/typescript.png"></code>
-<code><img height="50" alt="React" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/react/react.png"></code>
-<code><img height="50" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kotlin/kotlin.png"></code>
+# Hey there 👋 I'm Leo
 
+**Senior Data Engineer** · London, United Kingdom
 
-# Some projects you should check out:
-- [Personal Website](https://github.com/thesammy2010/thesammy2010.com)
-- [Terraform Infrastructure Management](https://github.com/thesammy2010/terraform)
+Mostly Python, Terraform and streaming data. Currently at
+[Blockchain.com](https://blockchain.com), building things on
+[thesammy2010.com](https://thesammy2010.com) in my own time.
 
-### Companies
-<img src="./assets/moonpay.png" width="20"></img> [MoonPay](https://moonpay.com)
+[![Website](https://img.shields.io/badge/thesammy2010.com-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://thesammy2010.com)
+[![LinkedIn](https://img.shields.io/badge/-TheSammy2010-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leo-pn/)
+[![Email](https://img.shields.io/badge/-info@thesammy2010.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:info@thesammy2010.com)
 
-<img src="./assets/curve.jpg" width="20"></img> [Curve](https://curve.com)
+</div>
 
-<img src="./assets/dice.fm.jpg" width="20"></img> [dice.fm](https://dice.fm)
+---
 
-<img src="./assets/blockchain.com.png" width="20"></img> [Blockchain.com](https://blockchain.com)
+## 🧠 Tools and languages I'm experienced in
 
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img height="42" alt="Python" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/python/python.png"><br>Python
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="SQL" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/sql/sql.png"><br>SQL
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kotlin/kotlin.png"><br>Kotlin
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/typescript/typescript.png"><br>TypeScript
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Terraform" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/terraform/terraform.png"><br>Terraform
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="dbt" src="./assets/dbt.png"><br>dbt
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kubernetes/kubernetes.png"><br>Kubernetes
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="110">
+      <img height="42" alt="Docker" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/docker/docker.png"><br>Docker
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Google Cloud" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/google-cloud/google-cloud.png"><br>GCP
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/postgresql/postgresql.png"><br>PostgreSQL
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Kafka" src="./assets/kafka.png"><br>Kafka
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Redpanda" src="./assets/redpanda.jpg"><br>Redpanda
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="GitHub Actions" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/actions/actions.png"><br>Actions
+    </td>
+  </tr>
+</table>
 
-### Contact Me
-- [![Linkedin: Leo](https://img.shields.io/badge/-TheSammy2010-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leo-pn/)
-- [Email](mailto:info@thesammy2010.com)
+## 🚧 Tools I'm developing experience in
+
+<table>
+  <tr>
+    <td align="center" width="110">
+      <img height="42" alt="Go" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/go/go.png"><br>Go
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="Rust" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/rust/rust.png"><br>Rust
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="React" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/react/react.png"><br>React
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="GraphQL" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/graphql/graphql.png"><br>GraphQL
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="FastAPI" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/fastapi/fastapi.png"><br>FastAPI
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Projects
+
+<!-- The table below is regenerated by .github/workflows/update-readme.yml.
+     Anything typed between the START and END markers will be overwritten. -->
+<!-- PROJECTS:START -->
+| Project | What it is | Stack | Last pushed |
+| --- | --- | --- | --- |
+| [thesammy2010.com](https://github.com/thesammy2010/thesammy2010.com) | Repo for thesammy2010.com | TypeScript | today |
+| [terraform](https://github.com/thesammy2010/terraform) | Terraform Code | HCL | today |
+| [api.thesammy2010.com](https://github.com/thesammy2010/api.thesammy2010.com) | — | Python | today |
+| [coded-animations](https://github.com/thesammy2010/coded-animations) | Tested using coded animations | Python | today |
+<!-- PROJECTS:END -->
+
+## 📊 GitHub
+
+<!-- PROJECTS:START/END above and LANGUAGES below are both generated from the
+     GitHub API, so they never go stale and never 404 the way the third party
+     stats-card services do. -->
+<!-- LANGUAGES:START -->
+```text
+TypeScript  ██████████████░░░░░░░░░░░░░░   51.5%
+Python      ██████████░░░░░░░░░░░░░░░░░░   34.6%
+CSS         ███░░░░░░░░░░░░░░░░░░░░░░░░░   10.6%
+HCL         █░░░░░░░░░░░░░░░░░░░░░░░░░░░    2.7%
+HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.5%
+```
+
+<sub>Across my public repositories, by bytes of code.</sub>
+<!-- LANGUAGES:END -->
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=thesammy2010&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏢 Companies
+
+<table>
+  <tr>
+    <td width="34"><img src="./assets/blockchain.com.png" width="24"></td>
+    <td><a href="https://blockchain.com">Blockchain.com</a></td>
+    <td><em>Senior Data Engineer — current</em></td>
+  </tr>
+  <tr>
+    <td width="34"><img src="./assets/moonpay.png" width="24"></td>
+    <td><a href="https://moonpay.com">MoonPay</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width="34"><img src="./assets/curve.jpg" width="24"></td>
+    <td><a href="https://curve.com">Curve</a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td width="34"><img src="./assets/dice.fm.jpg" width="24"></td>
+    <td><a href="https://dice.fm">dice.fm</a></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+<sub>Company logos are the trademarks of their respective owners and are used here for identification only.</sub>
+</div>
