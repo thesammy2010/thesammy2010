@@ -29,6 +29,12 @@ Mostly Python, Terraform and streaming data. Currently at
       <img height="42" alt="SQL" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/sql/sql.png"><br>SQL
     </td>
     <td align="center" width="110">
+      <img height="42" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kotlin/kotlin.png"><br>Kotlin
+    </td>
+    <td align="center" width="110">
+      <img height="42" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/typescript/typescript.png"><br>TypeScript
+    </td>
+    <td align="center" width="110">
       <img height="42" alt="Terraform" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/terraform/terraform.png"><br>Terraform
     </td>
     <td align="center" width="110">
@@ -37,11 +43,11 @@ Mostly Python, Terraform and streaming data. Currently at
     <td align="center" width="110">
       <img height="42" alt="Kubernetes" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kubernetes/kubernetes.png"><br>Kubernetes
     </td>
+  </tr>
+  <tr>
     <td align="center" width="110">
       <img height="42" alt="Docker" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/docker/docker.png"><br>Docker
     </td>
-  </tr>
-  <tr>
     <td align="center" width="110">
       <img height="42" alt="Google Cloud" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/google-cloud/google-cloud.png"><br>GCP
     </td>
@@ -57,9 +63,6 @@ Mostly Python, Terraform and streaming data. Currently at
     <td align="center" width="110">
       <img height="42" alt="GitHub Actions" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/actions/actions.png"><br>Actions
     </td>
-    <td align="center" width="110">
-      <img height="42" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/typescript/typescript.png"><br>TypeScript
-    </td>
   </tr>
 </table>
 
@@ -72,9 +75,6 @@ Mostly Python, Terraform and streaming data. Currently at
     </td>
     <td align="center" width="110">
       <img height="42" alt="Rust" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/rust/rust.png"><br>Rust
-    </td>
-    <td align="center" width="110">
-      <img height="42" alt="Kotlin" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/kotlin/kotlin.png"><br>Kotlin
     </td>
     <td align="center" width="110">
       <img height="42" alt="React" src="https://raw.githubusercontent.com/github/explore/2576e6de170c96c90997ab2e0bcafc573e1478ef/topics/react/react.png"><br>React
