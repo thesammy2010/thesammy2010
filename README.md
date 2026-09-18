@@ -97,10 +97,10 @@ Mostly Python, Terraform and streaming data. Currently at
 <!-- PROJECTS:START -->
 | Project | What it is | Stack | Last pushed |
 | --- | --- | --- | --- |
-| [api.thesammy2010.com](https://github.com/thesammy2010/api.thesammy2010.com) | — | Python | 12 days ago |
-| [thesammy2010.com](https://github.com/thesammy2010/thesammy2010.com) | Repo for thesammy2010.com | TypeScript | 16 days ago |
-| [terraform](https://github.com/thesammy2010/terraform) | Terraform Code | HCL | 19 days ago |
-| [coded-animations](https://github.com/thesammy2010/coded-animations) | Tested using coded animations | Python | 19 days ago |
+| [api.thesammy2010.com](https://github.com/thesammy2010/api.thesammy2010.com) | — | Python | 13 days ago |
+| [thesammy2010.com](https://github.com/thesammy2010/thesammy2010.com) | Repo for thesammy2010.com | TypeScript | 17 days ago |
+| [terraform](https://github.com/thesammy2010/terraform) | Terraform Code | HCL | 20 days ago |
+| [coded-animations](https://github.com/thesammy2010/coded-animations) | Tested using coded animations | Python | 20 days ago |
 <!-- PROJECTS:END -->
 
 ## 📊 GitHub
