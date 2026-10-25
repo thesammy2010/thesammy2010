@@ -97,8 +97,8 @@ Mostly Python, Terraform and streaming data. Currently at
 <!-- PROJECTS:START -->
 | Project | What it is | Stack | Last pushed |
 | --- | --- | --- | --- |
-| [api.thesammy2010.com](https://github.com/thesammy2010/api.thesammy2010.com) | — | Python | 1 months ago |
-| [thesammy2010.com](https://github.com/thesammy2010/thesammy2010.com) | Repo for thesammy2010.com | TypeScript | 1 months ago |
+| [api.thesammy2010.com](https://github.com/thesammy2010/api.thesammy2010.com) | — | Python | today |
+| [thesammy2010.com](https://github.com/thesammy2010/thesammy2010.com) | Repo for thesammy2010.com | TypeScript | today |
 | [terraform](https://github.com/thesammy2010/terraform) | Terraform Code | HCL | 1 months ago |
 | [coded-animations](https://github.com/thesammy2010/coded-animations) | Tested using coded animations | Python | 1 months ago |
 <!-- PROJECTS:END -->
@@ -110,10 +110,10 @@ Mostly Python, Terraform and streaming data. Currently at
      stats-card services do. -->
 <!-- LANGUAGES:START -->
 ```text
-TypeScript  ██████████████░░░░░░░░░░░░░░   50.7%
-Python      ██████████░░░░░░░░░░░░░░░░░░   36.0%
-CSS         ███░░░░░░░░░░░░░░░░░░░░░░░░░   11.4%
-HCL         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.5%
+TypeScript  ███████████████░░░░░░░░░░░░░   51.9%
+Python      ██████████░░░░░░░░░░░░░░░░░░   35.5%
+CSS         ███░░░░░░░░░░░░░░░░░░░░░░░░░   10.8%
+HCL         ░░░░░░░░░░░░░░░░░░░░░░░░░░░░    1.4%
 HTML        ░░░░░░░░░░░░░░░░░░░░░░░░░░░░    0.4%
 ```
 
